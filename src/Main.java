@@ -8,6 +8,10 @@ Engine X=new Engine();
 X.cylinders="8";
 X.size="122vv";
 X.weight="455";
+Lights neon=new Lights();
+neon.color="red";
+neon.size="15cm";
+neon.intensity="48567454ckn";
 
     }
 }
