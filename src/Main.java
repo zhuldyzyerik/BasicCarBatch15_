@@ -9,5 +9,10 @@ X.cylinders="8";
 X.size="122vv";
 X.weight="455";
 
+Color col=new Color();
+col.colorWindows="True";
+col.colorLights="False";
+col.colortTire="True";
+
     }
 }
